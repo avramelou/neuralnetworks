@@ -1,5 +1,5 @@
 This project was created for the Neural Networks - Deep Learning course 
-7th Semester at the Aristotle University of Thessaloniki.
+7th Semester (Fall 2020) at the Aristotle University of Thessaloniki.
 
 
 This project include three notebooks with different Neural Networks.
